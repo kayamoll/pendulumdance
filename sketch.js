@@ -1,8 +1,8 @@
 //pendulum measures
 let r1 = 150;
 let r2 = 150;
-let m1 = 20;
-let m2 = 20;
+let m1 = 30;
+let m2 = 30;
 let a1, a2;
 
 //velocity
