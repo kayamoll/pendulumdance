@@ -7,3 +7,9 @@ html, body {
 canvas {
   display: block;
 }
+@media only screen and (max-width: 400px) {
+  #info {
+    padding: 1.2rem;
+    font-size 1.2rem;
+  }
+}
